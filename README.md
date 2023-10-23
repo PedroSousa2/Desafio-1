@@ -3,4 +3,3 @@ Link da planilha de Registro: https://docs.google.com/spreadsheets/d/160m2UbAp5k
 
 Link do site: https://desafiodnc1pedrohenrique.netlify.app/
 
-Projeto baseado : https://www.figma.com/file/0FRiZbs30dfSniazKiM1rM/Desafio-1---Desenvolva-uma-Landing-Page?node-id=0%3A1&mode=dev
